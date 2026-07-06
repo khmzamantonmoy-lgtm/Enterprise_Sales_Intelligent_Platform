@@ -1,0 +1,8 @@
+{
+  "name": "DocuGraph",
+  "description": "Enterprise Decision Intelligence Platform converting business documents into connected organizational knowledge and evidence-backed executive decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
